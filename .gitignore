@@ -52,7 +52,6 @@ __pycache__/
 venv/
 .venv/
 
-backend/plant_disease_model_augmented.h5
 # Development tools
 chainlit.md
 .chainlit
